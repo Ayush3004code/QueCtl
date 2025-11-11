@@ -319,26 +319,10 @@ MIT
 
 Built as a technical assessment project.
 
-## 📘 Detailed Documentation
-
-For a comprehensive explanation of how the system works, see [ARCHITECTURE.md](./ARCHITECTURE.md). This document covers:
-- Simple explanations of each component
-- Data flow diagrams
-- Job lifecycle details
-- Retry mechanism deep dive
-- Step-by-step examples
-- Technical implementation details
-
-## 📚 Additional Notes
-
-- The system creates a `.queuectl/` directory in the current working directory for data storage
-- Worker processes run as separate Node.js processes
-- All timestamps are in ISO 8601 format (UTC)
-- Job commands are executed in the system shell with a 30-second timeout
 
 ## 🎥 Demo Video
 
-A working CLI demo video is available at: [Link to be added]
+A working CLI demo video is available at: [https://drive.google.com/file/d/1QEcRco6-nNOcfxVf6N6-f17CbGiowNGN/view?usp=drive_link]
 
 The demo showcases:
 - Enqueueing jobs
