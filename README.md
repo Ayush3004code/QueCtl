@@ -322,7 +322,7 @@ Built as a technical assessment project.
 
 ## 🎥 Demo Video
 
-A working CLI demo video is available at: [https://drive.google.com/file/d/1QEcRco6-nNOcfxVf6N6-f17CbGiowNGN/view?usp=drive_link]
+A working CLI demo video is available at: [https://drive.google.com/file/d/1MHmXmaa3TMCwfDELjl4RLiRJFjMSllZj/view?usp=sharing]
 
 The demo showcases:
 - Enqueueing jobs
