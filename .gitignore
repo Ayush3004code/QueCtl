@@ -1,0 +1,6 @@
+node_modules/
+.queuectl/
+*.log
+.DS_Store
+*.pid
+
